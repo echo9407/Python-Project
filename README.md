@@ -1,2 +1,2 @@
-# Python-Project
-the analysis and prediction of graduate admission using python programming language.
+# the analysis and prediction of graduate admission using python programming language.
+
